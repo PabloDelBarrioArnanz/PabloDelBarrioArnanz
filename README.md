@@ -28,8 +28,7 @@
 
 :lock:**Data Bases** Postgress, MySQL, Oracle, MongoDB
 
-:wrench:**Tools** Git, Docker, Kafka, Finagle, Git, Maven, Gradle, K6, Grafana y Prometheus, Jenkins, OpenShift, Docker/Docker-Compose, SQL developer/MySQL Workbench,
-StarUML, Postman, SoapUI, Swagger
+:wrench:**Tools** Git, Docker, Kafka, Maven, Gradle, K6, Grafana y Prometheus, Jenkins, OpenShift, Helm, Terraform, Postman, Swagger
 
 
 ## Find me around the web
