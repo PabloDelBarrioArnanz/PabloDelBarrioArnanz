@@ -22,13 +22,13 @@
 
 ## Skills
 
-⚡**Frameworks** Spring, Spring Boot (Cloud Stream con Kafka, MVC, WEB, MicroMeter, WebFlux, Security, Data, Eureka…), Mockito, WireMock
+⚡**Frameworks** Spring, Spring Boot, Quarkus, React
 
-💬**Programming Languages** Java, Scala, Python, C, C++
+💬**Programming Languages** Java, Kotlin, Go, JavaScript
 
-:lock:**Data Bases** MySQL, Oracle, MongoDB
+:lock:**Data Bases** Postgress, MySQL, Oracle, MongoDB
 
-:wrench:**Tools** Git, Docker, Kafka, Finagle, Git, Maven, Grafana y Prometheus, Jenkins, OpenShift, Docker/Docker-Compose, SQL developer/MySQL Workbench,
+:wrench:**Tools** Git, Docker, Kafka, Finagle, Git, Maven, Gradle, K6, Grafana y Prometheus, Jenkins, OpenShift, Docker/Docker-Compose, SQL developer/MySQL Workbench,
 StarUML, Postman, SoapUI, Swagger
 
 
