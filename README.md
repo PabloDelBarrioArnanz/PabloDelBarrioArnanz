@@ -41,7 +41,3 @@ StarUML, Postman, SoapUI, Swagger
 <a href="https://github.com/PabloDelBarrioArnanz">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=PabloDelBarrioArnanz&theme=dark&hide_langs_below=1"/>
 </a>
-
-<a href="https://github.com/PabloDelBarrioArnanz">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=PabloDelBarrioArnanz&show_icons=true&theme=dark&line_height=27" alt="Poojitha's github stats"/>
-</a>
